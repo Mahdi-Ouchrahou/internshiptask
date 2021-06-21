@@ -1,6 +1,6 @@
 # internshiptask
 
-The file "alphavantage.py" contains the primary code, it prints the data on the standard otput as a pandas dataframe, it creates both a csv file containing the data and also an "output.parquet" file.
+The file "alphavantage.py" contains the primary code, it prints the data on the standard output as a pandas dataframe, it creates both a csv file containing the data and also an "output.parquet" file.
 
 Errors are handled in the code.
 
