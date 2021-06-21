@@ -13,6 +13,7 @@ Errors are handled in the code.
 
 #Save your API key as environment variable:
 export ALPHAVANTAGE_API_KEY='XXXXXXXXX'
+
 #check API key:
 $echo ALPHAVANTAGE_API_KEY
 
