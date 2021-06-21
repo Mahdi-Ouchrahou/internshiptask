@@ -11,5 +11,10 @@ Errors are handled in the code.
 2) Create virtual env: virtualenv name_of_virtenv (once in the local dir of your choice)
 3) Actuvate virtualenv: source name_of_virtualenv/bin/activate
 
+#Save your API key as environment variable:
+export ALPHAVANTAGE_API_KEY='XXXXXXXXX'
+#check API key:
+$echo ALPHAVANTAGE_API_KEY
+
 
 
